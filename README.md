@@ -1,5 +1,3 @@
-## README for GitHub
-
 # Student Performance Prediction Project
 
 This project involves an Exploratory Data Analysis (EDA) of student performance data, building a machine learning model to predict final grades (G3), and deploying the model using Gradio.
